@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1704899172 source:c:\users\amani\desktop\nouveau dossier\test8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"test8.h"
+	"test8.c"
+
+1704895996 c:\users\amani\desktop\nouveau dossier\test8\test8.h
+
+1704914810 c:\users\amani\desktop\nouveau dossier\test8\test8.c
+
